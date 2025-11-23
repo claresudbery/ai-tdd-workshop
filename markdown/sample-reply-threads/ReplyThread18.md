@@ -1,0 +1,33 @@
+**Clare Sudbery (she/her)**
+  Oct 22nd at 10:15 PM
+- Felt like there were parts where we were much more productive than if it was just the two of us
+- particularly bootstrapping Cypress - was much easier than it would have been otherwise
+- Process: Having one of us define the prompt and not debating it too much worked quite well
+- It was great to have a reminder to ask AI to do things I otherwise wouldn’t have thought of
+- Even though the AI “knows” a ton of stuff I don’t, so does Joe!
+- Having his Cypress experience and command line knowhow was helpful
+- Having somebody else present prompted me to slow down a little at good points
+- Rather than just skim the AI answers, I paid more attention
+- I also tried a little harder to understand what was going on
+- Switching back and forth between getting the AI to think about what to do next rather than go straight to implementation was useful - so it didn’t go down a rabbithole
+- One of the benefits of pairing is that you stop each other from going down rabbitholes, but interestingly I think it also helps you both to stop the AI going down rabbitholes
+- We were both a little worried that there would be too much time where we were both waiting for the AI to do stuff and both feeling a little redundant
+- How I felt about this:
+- that happened a little but not much
+- while the AI was thinking we could discuss all sorts of useful stuff
+- and anyway it didn’t happen much
+- mostly we were able to use that time to collaborate on how best to use the AI
+- Joe is not so sure!
+- If we hadn’t had the express purpose of how to use AI and we just wanted to get stuff done, and I hadn’t been making notes, it would have felt slower
+- Some things were really slow
+- eg the logging change took the AI ages - we might have been able to do it in the same amount of time on our own
+- How Joe feels about Windsurf:
+- It’s meant to be AI native but didn’t feel as good as using Claude Code + VS Code
+- When using Claude Code + VS Code, for every change it makes, it gives you a visual diff in the editor that you can accept or decline - so it really highlights the changes that it’s making
+- This is Joe’s preferred way of working
+- The Windsurf screen real estate - the agent pane is the smallest pane but that’s what we were focusing on. Even if you make it bigger, the fact that it’s on the right makes it feel like an afterthought
+- Next session:
+- Investigate seeing diffs in the IDE
+- ...and moving the AI context to the middle?
+- Today we were in troubleshooting mode, and tomorrow we’ll be in “getting shit done” mode
+- We’re going to try getting Joe to host on his machine using Claude Code + VS Code, rather than on my machine using Windsurf

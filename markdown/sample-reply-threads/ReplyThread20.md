@@ -1,0 +1,31 @@
+**Clare Sudbery (she/her)**
+  Oct 23rd at 10:42 PM
+- Having a good configuration for whatever tool you’re using can make a big difference
+- Just adding one line to `claude.md` made it do exactly what Joe wanted without prompts
+- The line was - **Tests never fail because of missing implementation**: If there is e.g. a missing function/method then that should be stubbed to check the expected behaviour is failing the test, not the lack of implementation or incorrect types
+- Interestingly I had this specified on my setup, but in a completely different way because I had dedicated TDD process files whereas Joe had everything in claude.md ([here](https://github.com/joerayme/dotfiles/blob/main/.claude/CLAUDE.md)) but I forgot that was the case - didn’t notice obvious differences
+- I felt like we didn’t make as much progress as I’d hoped we would
+- That might be because of TDD and good practice - the first time I tried to implement this tool I didn’t use TDD but I quickly got stuck in the mud and ultimately moved much more slowly as a result (and had to throw everything away and start again)
+- Joe: Today’s loop was more fluid than yesterday (maybe perception cos Joe was more in control cos hosting and typing?)
+- I agree
+- We were being very careful - checking everything the AI did - both tests and code, and with lots of commits
+- Maybe after the first iterations we could have just trusted it and allowed it to jump a few steps before checking and committing
+- Next steps
+- More pairing?
+- 2nd week in Nov - Thurs 13th Nov - 7:30pm - 10pm
+- TDD
+- Do we still want to move in tiny steps when working with an LLM?
+- It can do them v quickly, but it could still do them - but in batches?
+- Compromise? Get it to generate all the tests upfront and then implement them one by one?
+- Joe (on his own with LLM - not in pair) tried writing the test cases (not the tests) upfront and it worked pretty well - writing the tests afterwards one by one
+- Pairing
+- Joe feeling more positive than he thought he would - less waiting around than he expected, and discussing interesting things
+- but what we’re talking about is approach, like you might discuss a lot of TDD meta-stuff when you first start TDD... and the benefit of that might tail off over time... but would that be a reason to stop pairing?
+- But if we were on our own and waiting for an LLM, we could do other useful stuff like catch up with Slack messages - so using an LLM allows him to multi-task more than otherwise
+- How often do long gaps happen? Depends if you’re asking the LLM to do a chunky task, like something where it has to do iteration, like maybe it’s trying to fix a bug and it has to try a few different things out in order to fix the bug
+- ...but then again if you’re a high-functioning pair you don’t feel permanently tethered to each other, so you can BOTH go check emails while you wait for the LLM to do something
+- There might also be a benefit there in that one of you spots the LLM is done before the other and is able to capitalise on that somehow. You don’t both need to be present 100% of the time - you might be able to catch each other up on what’s going on
+- But this all speculative - not enough experience (from either of us) of pairing or LLM work to know if this might be an issue
+- I had to concentrate really hard because Joe typing
+- My attention sometimes drifted
+- We should make more of an effort to have some kind of turn-taking cadence

@@ -12,5 +12,6 @@ Ask your AI to help you build the following tool:
 - (WARNING: If you paste text directly from Slack, it will not format nicely. The sample markdown files have already had some processing.)
 - The output should be a nicely formatted markdown file.
 - DO NOT ATTEMPT TO WRITE CODE YOURSELF. NO TESTS UNLESS THE LLM SAYS SO! THE LLM IS IN CHARGE.
+- Remember at all stages to check the results! Reply thread insertion points should be identified and acted on correctly.
 - If you finish this exercise and want more, see `exercises/part1-extensions.md`.
 - Go!

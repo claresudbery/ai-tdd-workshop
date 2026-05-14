@@ -8,6 +8,7 @@ Ask your AI to help you build the following tool:
 - The markdown file is text from a Slack channel.
 - There are also 28 sample reply threads, in sub-folder in markdown folder
 - You want the tool to identify reply thread insertion points, and insert each reply thread in the correct place
+- eg "**1 reply**" indicates a reply thread insertion point
 - You want a nice UI that allows users to upload either all the relevant markdown files, or paste text in directly
 - (WARNING: If you paste text directly from Slack, it will not format nicely. The sample markdown files have already had some processing.)
 - The output should be a nicely formatted markdown file.

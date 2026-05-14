@@ -29,7 +29,7 @@ Net result: I did the following…
 3. Remembered that the easiest way for me to learn / explore anything is to (a) give myself a real-world deadline, and (b) aim to teach it to others
 4. Pitched a “combining AI and TDD” workshop to Software Architecture Gathering in Berlin.
 Further consequence: I’m now torn between guilt and self loathing for making a pact with the devil, and excitement at learning / playing with something new.
-IMG_4213
+![IMG_4213](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539u8/img_4213.jpg)
 **sally**
   9:49
 Seems sensible all around
@@ -385,7 +385,7 @@ In my head, this is. I wasn't strong enough to pick people up and turn them upsi
 I also regularly have abstract dreams where I apply whatever technology thing I've been doing to real life. Eg my husband becomes a spreadsheet or I code my emotions or a car journey becomes code.
 **Clare Sudbery (she/her)**
   12:43
-IMG_4359
+![IMG_4359](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539s6/img_4359_720.jpg)
 **neville**
   10:33
 [https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
@@ -396,7 +396,7 @@ A rare look into how the new, popular dev tool is built, and what it might mean 
 **Clare Sudbery (she/her)**
   12:45 PM
 Oh dear.
-image.png
+![image](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539x7/image.png)
 **sally**
   2:42
 “yeah, sorry, I’m just as susceptible to making stuff up as any other random doofus, cause after all, I’m just distilled essence of random doofus.  But I can carry on indefinitely on a generous diet of electrons and water, as long as your credit card is good, so there’s that”
@@ -590,7 +590,7 @@ Oct 22nd (124 kB)
 **deborah**
   4:31
 I'm shocked... SHOCKED... that a large tech company overhired for a hype-driven technology 
-image.png
+![image](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539y4/image.png)
 **Clare Sudbery (she/her)**
   4:57
 Hard to know. The bubble is starting to burst?

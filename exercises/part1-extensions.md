@@ -24,6 +24,16 @@ They can:
 - Only insert reply threads
 - Only insert dates
 
-4. Improve the output and UI in whatever way makes sense to you.
+4. Image processing. 
+
+!You'll only be able to do this part if you have a Slack account and access to a Slack thread containing images!
+
+Currently `sample-input.md` contains text such as `image.png` and `IMG_4359`. If you look at `sample-input-image-urls.md` you'll see those are replaced by things like `![IMG_4359](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539s6/img_4359_720.jpg)`.
+
+Note that `sample-input-image-urls.md` is only an example. To get this working, you'll need a Slack thread containing images you can access using your own Slack account.
+
+Create a utility as part of this tool that will scan the source markdown for markdown image links like `![IMG_4359](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539s6/img_4359_720.jpg)` which represent images hosted on `files.slack.com`. It will then ask the user to log into the relevant Slack account (which is the only way to access the images), and then it will download each image and create a final markdown file that can be opened with all the images correctly inserted and visible.
+
+5. Improve the output and UI in whatever way makes sense to you.
 
 Remember at all stages to check the results!

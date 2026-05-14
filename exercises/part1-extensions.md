@@ -26,7 +26,7 @@ They can:
 
 4. Image processing. 
 
-!You'll only be able to do this part if you have a Slack account and access to a Slack thread containing images!
+!You'll only be able to do this part if you have a Slack account and access to a Slack thread containing images! Move to Step 5 if that's not you!
 
 Currently `sample-input.md` contains text such as `image.png` and `IMG_4359`. If you look at `sample-input-image-urls.md` you'll see those are replaced by things like `![IMG_4359](https://files.slack.com/files-tmb/U2CXNMY49-909KKGG0R7W-96aa9539s6/img_4359_720.jpg)`.
 
